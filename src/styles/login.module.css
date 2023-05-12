@@ -1,0 +1,23 @@
+.fromContainer {
+  width: 500px;
+  background-color: #857f9166;
+  color: white;
+  border-radius: 5px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* z-index: 100; */
+}
+
+.loginContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loginFormButton {
+  width: 100%;
+  margin-bottom: 1rem;
+}

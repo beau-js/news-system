@@ -9,14 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@reduxjs/toolkit": "^1.9.5",
     "@types/node": "18.16.3",
     "@types/react": "18.2.2",
     "@types/react-dom": "18.2.3",
+    "antd": "^5.4.7",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.4",
+    "immer": "^10.0.2",
     "next": "13.3.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-particles": "^2.9.3",
+    "react-redux": "^8.0.5",
+    "react-tsparticles": "^2.9.3",
+    "sass": "^1.62.1",
+    "tsparticles": "^2.9.3",
+    "tsparticles-engine": "^2.9.3",
     "typescript": "5.0.4"
   }
 }
